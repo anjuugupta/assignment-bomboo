@@ -50,7 +50,8 @@ export default function Shopping() {
         value={activeTab}
         onChange={handleTabChange}
         centered
-       
+        className="lable"
+
       >
         {fakeCategories.map((category, index) => (
           <Tab
@@ -58,6 +59,7 @@ export default function Shopping() {
             label={category}
             style={{
               color: activeTab === index ? "#000" : "gray",
+              
             }}          
           />
         ))}

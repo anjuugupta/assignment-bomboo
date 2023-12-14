@@ -11,6 +11,9 @@ h1 {
   letter-spacing: 4px;
   text-transform: uppercase;
 }
+.lable{
+  margin: 23px;
+}
 .container {
   max-width: 600px;
   margin: 0 auto;
@@ -20,7 +23,7 @@ h1 {
 }
 
 .boxs {
-  width: 38%;
+  width: 30%;
   padding: 25px;
   margin-bottom: 16px;
 }
