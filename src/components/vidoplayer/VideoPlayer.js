@@ -10,7 +10,7 @@ export default function VideoPlayer() {
           <video
             controls
             poster="https://assets.codepen.io/6093409/river.jpg"
-            style={{ width: '100%', height: '100%' }}
+            style={{ width: '117%', height: '100%' }}
           >
             <source
               src="https://assets.codepen.io/6093409/river.mp4"
