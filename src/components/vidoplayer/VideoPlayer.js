@@ -10,7 +10,7 @@ export default function VideoPlayer() {
       component="ul"
       sx={{ display: 'flex', gap: 2, flexWrap: 'wrap', p: 0, m: 0 }}
     >
-      <Card component="li" sx={{ minWidth: 450, flexGrow: 1, minHeight: 300 }}>
+      <Card component="li" sx={{ minWidth: 375, flexGrow: 1, minHeight: 300 }}>
         <CardMedia>
           <video
             controls

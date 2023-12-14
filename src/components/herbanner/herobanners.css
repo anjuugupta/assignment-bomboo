@@ -6,6 +6,7 @@
   line-height: 43.488px; /* 112.5% */
   letter-spacing: 1.208px;
   text-transform: uppercase;
+  width: 100%;
 }
 .btn {
     display: inline-flex;
@@ -27,6 +28,7 @@
 .banner {
     position: relative;
     overflow: hidden;
+    width: 117%;
   }
   
   .banner img {
@@ -43,6 +45,7 @@
     transform: translate(-50%, -50%);
     text-align: center;
     color: #00000066; 
+    
   }
   
   .contantBanner p {
